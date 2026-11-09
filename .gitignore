@@ -1,0 +1,11 @@
+# PowerShell / Module build & local artifacts
+*.nupkg
+*.zip
+Reports/
+*.html
+*.csv
+*.log
+.vscode/
+.DS_Store
+Thumbs.db
+TestResult*.xml
